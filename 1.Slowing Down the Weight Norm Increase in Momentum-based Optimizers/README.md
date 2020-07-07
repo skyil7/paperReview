@@ -3,6 +3,8 @@
 > Byeongho Heo∗ , Sanghyuk Chun Chun∗ , Seong Joon Oh, Dongyoon Han, Sangdoo Yun, Youngjung Uh, Jung-Woo Ha
 > Clova AI Research, NAVER Corp
 
+[Review Video](https://youtu.be/H5Wb1eSx4oA)
+
 | Category | arXiv | Official Website | Official PyTorch Implementation |
 |--|--|--|--|
 |DL Foundation | [2006.08217](https://arxiv.org/abs/2006.08217) | [website](https://clovaai.github.io/AdamP/) | [Github Repo](https://github.com/clovaai/adamp) |
