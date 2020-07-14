@@ -1,6 +1,6 @@
 # High-Fidelity Generative Image Compression
 
-> Fabian Mentzer, George Toderici, Michael Tschannen, Eirikur Agustsson
+> Fabian Mentzer, George Toderici, Michael Tschannen, Eirikur Agustsson   
 > Google Research
 
 <!--[Review Video](https://youtu.be/H5Wb1eSx4oA)-->
