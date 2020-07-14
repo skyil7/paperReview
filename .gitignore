@@ -1,2 +1,3 @@
 ﻿*.mp4
 *.pptx
+!template.pptx
