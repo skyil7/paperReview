@@ -3,7 +3,7 @@
 > Fabian Mentzer, George Toderici, Michael Tschannen, Eirikur Agustsson   
 > Google Research
 
-<!--[Review Video](https://youtu.be/H5Wb1eSx4oA)-->
+[Review Video](https://youtu.be/swcjaUFOrmU)
 
 | Category | arXiv | Official Website |
 |--|--|--|
