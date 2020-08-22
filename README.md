@@ -13,3 +13,4 @@ Material will be in English and Review video on youtube will be in Korean.
 | 3 | [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865) | Yunjey Choi et al. | Generative Models |
 | 4 | [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126) | Junbo Zhao et al | Generative Models |
 | 4.5 | [What is Latent Space?](https://youtu.be/gJ86ixUx6MU) | Gio Paik | Math |
+| 5 | [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992) | Dongyoon Han et al. | CNN |
