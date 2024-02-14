@@ -1,19 +1,16 @@
-# WEEKLY AI PAPER
-> Reviews of the papers I read.
-> By Gio Paik
 
-- As an ambitious student who wants to be a part of history, Here I begin a little challenge.
-- Every week, I will upload a video and a text about the paper I read that week.
-    - First, the review article will be uploaded every Monday.
-	- Second, the review video will be available on youtube in every weekend.
+# PR-Gio
+> ~~푸르지오~~ Reviews of the papers I read.
 
-## Tags
-- CV: Computer Vision
-- GM: Generative Model
-- VR: Video Retrieval
-- SSL: Semi-Supervised Learning
+The Goal is a paper per week for 2020 summer vacation.   
+Material will be in English and Review video on youtube will be in Korean.
 
 ## Index
-| # | Title | Video(English) | Text(Korean) | Tags |
-| - | ------ | -- | -- | ------|
-| 0 | Coming Soon... | 📺 | 📜 | CV |
+| # | Title | Author | Category |
+| - | -- | -- | -- |
+| 1 | [Slowing Down the Weight Norm Increase in Momentum-based Optimizers](https://arxiv.org/abs/2006.08217) | Byeongho Heo et al. | DL Fundamental |
+| 2 | [High-Fidelity Generative Image Compression](https://arxiv.org/abs/2006.09965) | Fabian Mentzer et al. | Generative Models |
+| 3 | [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865) | Yunjey Choi et al. | Generative Models |
+| 4 | [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126) | Junbo Zhao et al | Generative Models |
+| 4.5 | [What is Latent Space?](https://youtu.be/gJ86ixUx6MU) | Gio Paik | Math |
+| 5 | [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992) | Dongyoon Han et al. | CNN |
